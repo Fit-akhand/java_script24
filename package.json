@@ -1,0 +1,12 @@
+{
+  "name": "java_script24",
+  "version": "1.0.0",
+  "description": "Learn java script with chai.",
+  "main": "index.js",
+  "scripts": {
+    "start":"index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
